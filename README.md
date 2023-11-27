@@ -22,11 +22,11 @@
 ### Задание 3
 
 
-![Скриншот-1](s://github.com/GromDrn/prometeus-2/blob/master/Screenshots/3.1-endpoint.jpg)
+![Скриншот-1](https://github.com/GromDrn/prometeus-2/blob/master/Screenshots/3.1-endpoint.jpg)
 
 ---
 
-![Скриншот-1](s://github.com/GromDrn/prometeus-2/blob/master/Screenshots/3.2-target.jpg)
+![Скриншот-2](https://github.com/GromDrn/prometeus-2/blob/master/Screenshots/3.2-target.jpg)
 
 ---
 
